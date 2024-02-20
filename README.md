@@ -2,6 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=SzumielDev&label=Visitors&color=red&style=for-the-badge" alt="Profile visitor" />
 </a>
 <br />
+<br />
 
 <div align="center">
         <img align="center" width="350" src="/assets/avatar.gif" alt="Coding gif" />
