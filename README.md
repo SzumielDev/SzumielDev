@@ -30,12 +30,6 @@
  <a href="https://www.linkedin.com/in/marcin-szumiel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="SzumielDev"/>
  </a>
- <a href="https://www.instagram.com/marcinszumiel/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="SzumielDev" />
- </a> 
- <a href="https://www.facebook.com/marcin.szumiel/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="SzumielDev"  />
-  </a> 
 </p>
 <br />
 
